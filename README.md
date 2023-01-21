@@ -7,7 +7,6 @@
 - 👨‍💻 Trabalhando atualmente em projetos desenvolvidos em JavaScript, Java etc.
 - 📚 Aprendendo sobre Dart e Flutter 😅
 - 💪🏼 Objetivos Futuros: Aprender novas linguagens | E nunca parar de ter ideias.
-- ⚡ Curiosidade: Eu amo jogar Vôlei 🏐.
 
 ---
 
