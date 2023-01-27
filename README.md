@@ -9,7 +9,7 @@
 - 💪🏼 Objetivos Futuros: Aprender novas linguagens | E nunca parar de ter ideias.
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coopas)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coopas&show_icons=true&theme=transparent)
 ---
 ### Linguagens e IDE's 🛠 
 
