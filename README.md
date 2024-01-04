@@ -5,7 +5,7 @@
 object **EDUARDO** {
 
  val name = "EDUARDO MARTINS GONÇALVES"
- val languages = listOf("Java", "JavaScript", "Dart")
+ val languages = listOf("Node")
 
  // i love spigot
 
