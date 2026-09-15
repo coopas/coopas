@@ -3,16 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-martins-gon%C3%A7alves-27696b425/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/eduardomartinsdev/">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/coopas?tab=repositories">Repositórios</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/coopas/capycator">Capycator</a>
+  <a href="https://iteams.felpstech.com">iTeams</a>
 </p>
 
 ### Olá, sou o Eduardo.
 
-Sou desenvolvedor na **FelpsTech**, onde trabalho com projetos web e mobile para clientes. No dia a dia, alterno entre interfaces, APIs, integrações e manutenção dos sistemas. Trabalho bastante com TypeScript e Flutter e também desenvolvo em Go e Java.
+Sou desenvolvedor na **FelpsTech**, onde construo e mantenho aplicações web e mobile. Trabalho principalmente com TypeScript e Flutter, passando pela interface, API, banco de dados e publicação.
+
+Sou responsável pelo desenvolvimento do **iTeams**, uma plataforma de gestão de equipes com tarefas, projetos, chat e controle de tempo. É um dos trabalhos que melhor representa minha experiência em construir um produto e acompanhar sua evolução depois da entrega.
 
 Também curso **Defesa Cibernética na FATEC Jundiaí**. Tenho interesse em segurança de aplicações, especialmente autenticação e controle de acesso.
 
@@ -23,7 +25,15 @@ Também curso **Defesa Cibernética na FATEC Jundiaí**. Tenho interesse em segu
 **Mobile** &nbsp; `Flutter` `Dart`  
 **Dados e infraestrutura** &nbsp; `PostgreSQL` `Redis` `Docker` `AWS`
 
-### Projeto público
+### Trabalhos em destaque
+
+#### [iTeams ↗](https://iteams.felpstech.com)
+
+Plataforma SaaS que reúne a organização do trabalho e a comunicação de equipes. Desenvolvo o cliente em Flutter e a API em TypeScript, incluindo permissões por organização, integrações, funcionalidades em tempo real, testes e publicação.
+
+O código é fechado. No [case técnico](https://github.com/coopas/iteams-case-study), apresento o produto, a arquitetura e algumas decisões de engenharia.
+
+`Flutter` `TypeScript` `Fastify` `PostgreSQL` `Redis` `Docker`
 
 #### [Capycator ↗](https://github.com/coopas/capycator)
 
