@@ -16,12 +16,12 @@ Sou desenvolvedor na **FelpsTech**, onde construo e mantenho aplicações web e 
 
 Sou responsável pelo desenvolvimento do **iTeams**, uma plataforma de gestão de equipes com tarefas, projetos, chat e controle de tempo. É um dos trabalhos que melhor representa minha experiência em construir um produto e acompanhar sua evolução depois da entrega.
 
-Também curso **Defesa Cibernética na FATEC Jundiaí**. Tenho interesse em segurança de aplicações, especialmente autenticação e controle de acesso.
+Também curso **Defesa Cibernética na FATEC Jundiaí**. No **SecurityHub**, junto desenvolvimento e segurança em uma aplicação para organizar vulnerabilidades e acompanhar suas correções.
 
-### Ferramentas do dia a dia
+### Tecnologias que uso
 
-**Web** &nbsp; `TypeScript` `React` `Next.js`  
-**Backend** &nbsp; `Node.js` `Go` `Java`  
+**Web** &nbsp; `TypeScript` `React` `Next.js` `Angular`  
+**Backend** &nbsp; `Node.js` `Go` `Java` `Spring Boot`  
 **Mobile** &nbsp; `Flutter` `Dart`  
 **Dados e infraestrutura** &nbsp; `PostgreSQL` `Redis` `Docker` `AWS`
 
@@ -34,6 +34,14 @@ Plataforma SaaS que reúne a organização do trabalho e a comunicação de equi
 O código é fechado. No [case técnico](https://github.com/coopas/iteams-case-study), apresento o produto, a arquitetura e algumas decisões de engenharia.
 
 `Flutter` `TypeScript` `Fastify` `PostgreSQL` `Redis` `Docker`
+
+#### [SecurityHub ↗](https://github.com/coopas/SecurityHub)
+
+Uma plataforma para reunir vulnerabilidades, distribuir responsáveis e acompanhar correções. Importa relatórios do Nmap, OWASP ZAP e Nuclei, com revisão dos resultados e identificação de duplicatas.
+
+Desenvolvi o backend em Java com Spring Boot e a interface em Angular. O projeto inclui isolamento de dados por empresa, permissões por perfil, histórico de alterações e testes de integração com PostgreSQL real.
+
+`Java` `Spring Boot` `Angular` `PostgreSQL` `Testcontainers` `Docker`
 
 #### [Capycator ↗](https://github.com/coopas/capycator)
 
